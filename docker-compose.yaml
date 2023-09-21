@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   flask-app: 
-    image: python-docker
+    image: joaoinvernal/python-space:v1
     ports: 
      - 5000:5000
